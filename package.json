@@ -1,0 +1,15 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "a twitch bot for my channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node index.js"
+  },
+  "author": "Edy Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
